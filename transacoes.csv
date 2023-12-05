@@ -1,0 +1,11 @@
+ID Transacao, Tipo de Transação,Estabelecimento,Horário,Valor,Produto,Cidade - Estado
+9c,Crédito,Esporte C,2023-11-21 21:53:28,1103,Artigo Esportivo,Porto Alegre - RS (Brasil)
+8c,Crédito,Padaria Doce Pão,2023-11-21 21:39:28,21,Bolos,São Paulo - SP (Brasil)
+7c,Crédito,Recarga Fácil,2023-11-21 21:35:28,50,Recarga de 50 Reais,São Paulo - SP (Brasil)
+6c,Crédito,GameStore C,2023-11-15 21:35:28,180,Jogo Digital,São Paulo - SP (Brasil)
+5c,Crédito,GameStore C,2023-11-10 15:54:28,152,Jogo Digital,São Paulo - SP (Brasil)
+4c,Crédito,Padaria Trigo Dourado,2023-11-10 13:48:28,11,Bolos,São Paulo - SP (Brasil)
+3c,Crédito,Recarga Fácil,2023-11-10 13:50:28,50,Recarga de 50 Reais,São Paulo - SP (Brasil)
+1d,Débito,Padaria Doce Pão,2023-11-10 09:36:28,25,Café da Manhã,São Paulo - SP (Brasil)
+2c,Crédito,Livraria A,2023-11-10 08:47:28,96,Livro OpenAI,São Paulo - SP (Brasil)
+1c,Crédito,GameStore D,2023-11-09 14:48:28,184,Jogo de Estratégia,São Paulo - SP (Brasil)

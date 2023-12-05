@@ -1,0 +1,5 @@
+Recomendação: Acionar setor Anti-Fraude
+
+Detalhes: A transação ID 9c, classificada como 'Crédito' no valor de R$1103,00 foi sinalizada como 'Possível Fraude'. O estabelecimento associado é o Esporte C, localizado em Porto Alegre - RS (Brasil). O produto associado à transação é um Artigo Esportivo. Dado o status de 'Possível Fraude', uma investigação adicional pela equipe Anti-Fraude é necessária para confirmar ou descartar atividades fraudulentas. Fatores a serem investigados incluem, mas não se limitam a: um aumento significativo na frequência de transações do cliente, um valor de transação maior do que a média para este tipo de produto ou localização diferente da usual.
+
+Classificação de Fraude Potencial: Devido à natureza do comportamento suspeito, essa transação pode ser categorizada como possível "Fraude de Cartão de Crédito". A classificação final deve ser determinada pela equipe Anti-Fraude após a conclusão da investigação.
